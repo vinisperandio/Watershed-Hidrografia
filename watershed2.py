@@ -9,8 +9,6 @@ import cv2
 GLADE_FILE = 'exemplo.glade'
 
 
-
-
 class interface():
 
     def __init__(self):
